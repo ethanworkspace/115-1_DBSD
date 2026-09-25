@@ -22,3 +22,7 @@
 **繳交物**：phpMyAdmin 截圖：看得到 SQL 語句與 COUNT 結果 50。
 
 **評分要點（Pass／Fail）**：COUNT ＝ 50；欄位型態合理（噸位／靠泊時間為數值）。
+
+## 註解：本週補做作業W03
+
+第 3 週作業 W03 於本週一併完成，題目見 [week03/README.md](../week03/README.md)。
