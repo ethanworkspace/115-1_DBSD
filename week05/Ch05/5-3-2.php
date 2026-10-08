@@ -1,6 +1,7 @@
 # SID: C113181121<BR>
 # Name: Po-Chen,Kuo<BR>
 EX03
+<HR>
 <?php
 $result = 0;
 $n = 0;
