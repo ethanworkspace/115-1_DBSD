@@ -292,6 +292,10 @@
 6. 請務必通知父母或監護人，勿偽造 LINE 訊息。
 
 
+LINE 請假範例畫面（個資已遮蔽）：
+
+![LINE 請假範例](images/leave_example.png)
+
 ## GitHub 基本操作（新手看這裡）
 
 > 每週作業以 Canva 繳交；**期末專案以小組 GitHub repo 繳交**，請務必熟悉以下操作。組長建立 repo 後，把組員與老師 `pychang-ai` 加為 collaborator。
