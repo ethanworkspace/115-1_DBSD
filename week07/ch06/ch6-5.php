@@ -1,7 +1,7 @@
 <?php
-include("ch6-5-1.inc");
+include "ch6-5-1.inc";
 include_once("ch6-5-2.inc");
-
+echo "EX01<br/>";
 $amount = 1000;
 $rate = 28.1;
 // 呼叫函數
@@ -12,4 +12,4 @@ require ("ch6-5-1.inc");
 $file = "ch6-5-1.inc";
 require $file;
 
-require("about_me.php");
+require ("about_me.php"); 
