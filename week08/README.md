@@ -21,6 +21,7 @@
 
 **評分要點（Pass／Fail）**：函數邏輯正確；3 個 assert 都寫了且都通過。
 
-## 註解：小考 1（Ch1–Ch7＋SQL）；期中複習
+## 註解：期中考說明；小考 1 已完成
 
-見 [quizzes/README.md](../quizzes/README.md)。
+- 小考 1 已在先前上課以隨堂填寫作業完成，本週不另外考，見 [quizzes/README.md](../quizzes/README.md)。
+- 下週 11/05 期中考，範圍與形式見 [midterm/README.md](../midterm/README.md)，本週課堂說明。
