@@ -5,6 +5,7 @@
 <title>catalog.php</title>
 <?php
 require("about_me.php");
+echo "W10-EX02" . "<Hr/>";
 session_start();  // 啟用交談期
 // 檢查是否是表單送回
 if ( isset($_POST["Item"]) ) {

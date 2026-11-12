@@ -1,6 +1,7 @@
 <!-- 程式範例：savecart.php -->
 <?php  
 require("about_me.php"); 
+echo "W10-EX02" . "<Hr/>";
 session_start();  // 啟用交談期
 if ( isset($_SESSION["ID"]) ) {
    $id = $_SESSION["ID"]; // 取得Session變數

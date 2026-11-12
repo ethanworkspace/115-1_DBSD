@@ -5,6 +5,7 @@
 <title>shoppingcart.php</title>
 <?php
 require("about_me.php");
+echo "W10-EX02" . "<Hr/>";
 function each(&$array) {
    $res = array();
    $key = key($array);
